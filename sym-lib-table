@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Zegar-na-oscyloskop-rescue)(type Legacy)(uri "${KIPRJMOD}/Zegar na oscyloskop-rescue.lib")(options "")(descr ""))
+)
